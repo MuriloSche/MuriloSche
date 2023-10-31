@@ -1,5 +1,5 @@
 # 💫 Sobre:
-🌐 Especialista em infraestrutura de redes com paixão por melhorar a conectividade e eficiência das redes.<br> Comprometido com a automação de processos para simplificar tarefas e aumentar a produtividade, utilizando tecnologias como Arduino e Raspberry Pi.<br>🐍 Proficiente em Python, minha linguagem de escolha para desenvolver soluções de automação.<br>💻 Também tenho conhecimento em PHP e SQL, permitindo a criação de aplicativos e scripts versáteis.<br>🚀 Sempre em busca de desafios no mundo da Infraestrutura e da automação.
+🌐 Especialista em infraestrutura de redes com paixão por melhorar a conectividade e eficiência das redes.<br> Comprometido com a automação de processos para simplificar tarefas e aumentar a produtividade, utilizando tecnologias como Arduino e Raspberry Pi.<br>🐍 Atualmente programando em Python, minha linguagem de escolha para desenvolver soluções de automação.<br>💻 Também tenho conhecimento em PHP e SQL, permitindo a criação de aplicativos e scripts versáteis.<br>🚀 Sempre em busca de desafios no mundo da Infraestrutura e da automação.
 
 
 ## 🌐 Redes Sociais:
