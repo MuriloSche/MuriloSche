@@ -8,12 +8,5 @@
 # 💻 Tecnologias:
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=flat&logo=Raspberry-Pi)
 
-# 📊 Estatísticas no GitHub:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MuriloSche&theme=default&hide_border=true&include_all_commits=true&count_private=false)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MuriloSche&theme=default&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MuriloSche&theme=default&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
-
-# ✍️ Citação Aleatória de Desenvolvedor
-![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
 
