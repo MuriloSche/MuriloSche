@@ -1,11 +1,3 @@
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
-  
-
-### <div align="center"></div>  
-  
-
 - 🌐 Apaixonado por redes e entusiasta da tecnologia! Estou sempre em busca de soluções inovadoras para aprimorar a conectividade e eficiência das redes. 🚀  
   
 
@@ -63,21 +55,6 @@
 
 <br/>  
 
-
-## Github Stats  
-  
-
-<br/>  
-
-
-## Recent Blog Posts  
-  
-
-<br/>  
-
-  
-
-<br/>  
 
   
 
